@@ -1,6 +1,6 @@
 {
   "name": "@elselab-io/node-simple-batcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple batching library with state management for Node.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
