@@ -6,8 +6,6 @@
 
 A simple, powerful batch processing library for Node.js with built-in state management, concurrency control, and TypeScript support.
 
-> **📦 Package Migration Notice**: This package was previously published as `@elselab/node-simple-batcher` (now deprecated). If you're migrating from the old package, please see our [Migration Guide](./MIGRATION.md).
-
 ## ✨ Key Features
 
 - **🔄 Batch Processing** - Process arrays of items in batches with controlled concurrency
