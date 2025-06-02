@@ -1,5 +1,5 @@
 {
-  "name": "@elselab/node-simple-batcher",
+  "name": "@elselab-io/node-simple-batcher",
   "version": "1.0.0",
   "description": "A simple batching library with state management for Node.js",
   "main": "dist/index.js",
@@ -23,16 +23,16 @@
     "concurrency",
     "state-management"
   ],
-  "author": "elselabdev",
+  "author": "elselab-io",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elselabdev/node-simple-batcher.git"
+    "url": "git+https://github.com/elselab-io/node-simple-batcher.git"
   },
   "bugs": {
-    "url": "https://github.com/elselabdev/node-simple-batcher/issues"
+    "url": "https://github.com/elselab-io/node-simple-batcher/issues"
   },
-  "homepage": "https://github.com/elselabdev/node-simple-batcher#readme",
+  "homepage": "https://github.com/elselab-io/node-simple-batcher#readme",
   "dependencies": {
     "p-limit": "^4.0.0"
   },
